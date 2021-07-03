@@ -4,8 +4,7 @@ A dedicated repository for cheatsheets and documentations of Purdue University c
 
 ## TODOs
 
-中文
-
+1. 中文
 1. [ ] Tools
   1. [ ] Git and GitHub
   2. [ ] Markdown
