@@ -6,6 +6,7 @@
   - [Quick Quick Refs](#quick-quick-refs)
   - [Quick Refs](#quick-refs)
   - [Installation](#installation)
+  - [`.gitignore`](#gitignore)
   - [Common usages](#common-usages)
   - [Pitfalls](#pitfalls)
 
@@ -88,6 +89,30 @@ git merge [BRANCH_NAME]
 
 1. 如果你是 MacOS, Linux, 或者在 `data.cs.purdue.edu` 上, Git 已经提前安好了, 可以在 terminal 里直接用 `git version` 来查看版本号.
 2. 如果你是 Windows 的话, 你需要下载 [`Git for Windows`](https://git-scm.com/download/win), download link: [here](https://git-scm.com/download/win).
+
+## `.gitignore`
+
+在你的 Git 仓库下添加一个 `.gitignore` 文件可以排除不需要添加进 repo 的文件, 例如 C 的 `*.out`, `*.o`, 和 Python 的 `*.pyc`, 常见格式如下:
+
+``` git
+# Intermediate files and builds
+*.o
+*.out
+*.exe
+*.elf
+build/
+build/*.out
+
+# OS Related
+.DS_Store
+.DS_Store
+```
+
+你可以使用 `*` 作为通配符来匹配文件。同时可以指定排除一整个文件夹下的内容。需要注意的是, 如果你在 commit 后才将文件名放在 `.gitignore` 里，你会需要执行下列命令将文件从 Git 里面移除出来。
+
+``` Bash
+git rm --cache [FILE_NAME]
+```
 
 ## Common usages
 
