@@ -17,16 +17,7 @@ OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare 
    2. 坑与ratemyprofessor
    3. Help you survive the courses : )
 3. Cheatsheet, 编程小抄
-   1. 如果记不住keywords的话，可以试试这个！
-
-## 目录
-
-- [Purdue CS Legacy](#purdue-cs-legacy)
-  - [如何使用？](#如何使用)
-  - [目录](#目录)
-  - [Tools, 开发工具](#tools-开发工具)
-  - [Courses, CS课程](#courses-cs课程)
-  - [Cheatsheets, 小抄?](#cheatsheets-小抄)
+   1. 如果记不住 keywords 的话，可以试试这个！
 
 ## Tools, 开发工具
 
@@ -34,18 +25,20 @@ OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare 
 
 1. [Git](/tools/basic/git.md)
 2. [GitHub](/tools/basic/github.md)
-3. [ssh]
-4. [Linux CLI]()
-5. [Visual Studio Code]()
-6. [Jetbrains IDE]()
-7. [make & makefile]()
+3. [ssh](/tools/basic/ssh.md)
+4. [Linux CLI / Bash](/tools/basic/linux.md)
+5. [Visual Studio Code](/tools/basic/vscode.md)
+6. [Intellij](/tools/basic/intellij.md)
+7. [make & makefile](/tools/basic/make.md)
 
 ## Courses, CS课程
 
 > I am not a "B"sian
 
-1. [CS 180: NAME]
-2. [CS 240: NAME]
-3. [CS 250: NAME]
+`TODO`
 
-## Cheatsheets, 小抄?
+## Cheatsheets, 小抄
+
+> When I forgot what I learned in 4 years of college life
+
+`TODO`
