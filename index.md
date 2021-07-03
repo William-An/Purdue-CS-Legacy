@@ -9,14 +9,14 @@
 
 OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare everything you needed! 这份文档主要分为两个部分：
 
-1. Tools, 工具部分
+1. [Tools, 工具部分](#tools-开发工具)
    1. 基本的开发工具用途与使用指南
    2. Be efficient and accurate!
-2. Courses, 课程部分
+2. [Courses, 课程部分](#courses-cs课程)
    1. 基本课程介绍
    2. 坑与ratemyprofessor
    3. Help you survive the courses : )
-3. Cheatsheet, 编程小抄
+3. [Cheatsheet, 编程小抄](#cheatsheets-小抄)
    1. 如果记不住 keywords 的话，可以试试这个！
 
 ## Tools, 开发工具
@@ -41,4 +41,4 @@ OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare 
 
 > When I forgot what I learned in 4 years of college life
 
-`TODO`
+1. [Markdown](/cheatsheets/markdown.md)
