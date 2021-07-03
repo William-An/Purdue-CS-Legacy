@@ -80,7 +80,7 @@ git status
 git checkout [BRANCH_NAME or LOG_HASH]
 
 # Merge with other branch
-# 把制定分支与当前分支合并
+# 把指定分支与当前分支合并
 git merge [BRANCH_NAME]
 ```
 
