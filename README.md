@@ -5,7 +5,8 @@ A dedicated repository for cheatsheets and documentations of Purdue University c
 ## TODOs
 
 1. 中文
-1. [ ] Tools
+2. 导言
+3. [ ] Tools
     1. [ ] Git and GitHub
     2. [ ] Markdown
     3. [ ] Linux basic commands
@@ -15,14 +16,14 @@ A dedicated repository for cheatsheets and documentations of Purdue University c
     6. [ ] IDE usage
     7. [ ] make system
     8. [ ] Testing
-2. [ ] Cheatsheets
+4. [ ] Cheatsheets
     1. [ ] C
     2. [ ] Markdown
     3. [ ] Java
     4. [ ] MATLAB
     5. [ ] Bash
     6. [ ] Makefile
-4. Courses
+5. Courses
     1. [ ] CS 180
     2. [ ] CS 240
     3. [ ] CS 250
