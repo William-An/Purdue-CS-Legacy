@@ -26,14 +26,27 @@
 
 // 分割线
 ---
+
+// 强制换行, 在行尾添加两个空格
+这不是一个
+换行
+
+这是一个  
+换行
 ```
 
-**Bold**
-*Italic*
-~~strike through~~
-> 引用
+**Bold**  
+*Italic*  
+~~strike through~~  
+> 引用  
 
 ---
+
+这不是一个
+换行
+
+这是一个  
+换行
 
 ## 列表
 
@@ -80,13 +93,13 @@
 [文档内链接](#link-与-图片)
 ```
 
-[Blog](http://blog.thexyzlab.studio/)
+[Blog Link](http://blog.thexyzlab.studio/)  
 URL 图片:
 ![Blog image](https://blog.thexyzlab.studio/content/images/size/w2000/2021/06/Background.png)
 
-[本地主页Link](/index.md)
-本地图片:
-![本地图片](/assets/WASDE%20CODE%20V3.jpg)
+[本地主页Link](/index.md)  
+本地图片 (在 GitHub Pages 上无法正常展示):
+![本地图片](/assets/WASDE%20CODE%20V3.jpg)  
 [文档内链接](#link-与-图片)
 
 ## 代码
