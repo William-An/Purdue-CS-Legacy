@@ -56,6 +56,10 @@ git reset [FILE_NAME]
 # commit 现有添加的文件
 git commit -m "[COMMIT_MESSAGE]"
 
+# Redo commit
+# 重置 commit
+git commit --amend
+
 # Push committed files to remote
 # 推送commits到云端仓库
 git push [REMOTE_REPO] [BRANCH]
