@@ -1,6 +1,6 @@
-# Purdue CS Legacy
+# Purdue CS/ECE Legacy
 
-A dedicated repository for cheatsheets and documentations of Purdue University computer science courses.
+A dedicated repository for cheatsheets and documentations of Purdue University computer science or electrical and computer engineering courses.
 
 ## TODOs
 
@@ -21,11 +21,16 @@ A dedicated repository for cheatsheets and documentations of Purdue University c
     5. [ ] Bash
     6. [ ] Makefile
 3. Courses
-    1. [ ] CS 180
-    2. [ ] CS 240
-    3. [ ] CS 250
-    4. [ ] CS 251
-    5. [ ] CS 252
-    6. [ ] CS 381
-    7. [ ] CS 354
+    1. CS
+        1. [ ] CS 180
+        2. [ ] CS 240
+        3. [ ] CS 250
+        4. [ ] CS 251
+        5. [ ] CS 252
+        6. [ ] CS 381
+        7. [ ] CS 354
+    1. ECE
+        1. [ ] ECE 362
+        2. [ ] ECE 337
+        3. [ ] ECE 437
 4. [ ] Course Planning excel sheet
