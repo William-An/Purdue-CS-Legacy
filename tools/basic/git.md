@@ -12,8 +12,6 @@
 
 ## Quick Quick Refs
 
-todo: git revert: https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
-
 ``` bash
 git init
 git clone [REMOTE_URL or LOCAL_PATH_TO_REPO]
@@ -21,6 +19,7 @@ git clone [REMOTE_URL or LOCAL_PATH_TO_REPO]
 git add [FILE_NAME]
 git reset [FILE_NAME]
 git commit -m "[COMMIT_MESSAGE]"
+git revert [GIT_HASH]
 git push [REMOTE_REPO] [BRANCH]
 git pull [REMOTE_REPO] [BRANCH]
 
@@ -61,6 +60,16 @@ git commit -m "[COMMIT_MESSAGE]"
 # Redo commit
 # 重置 commit
 git commit --amend
+
+# Revert specific commit with hashes `GIT_HASH`, `GIT_HASH_2`,...
+# 回滚有着 `GIT_HASH`, `GIT_HASH_2`,... 的 commit
+# Check https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+git revert [GIT_HASH] {, [GIT_HASH_2], [GIT_HASH_3]}
+
+# Revert back 3 commits
+# 回滚到 3 个 commits 之前
+# Check https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+git revert HEAD~3
 
 # Push committed files to remote
 # 推送commits到云端仓库
@@ -111,7 +120,7 @@ build/*.out
 
 # OS Related
 .DS_Store
-.DS_Store
+.DS_store
 ```
 
 你可以使用 `*` 作为通配符来匹配文件。同时可以指定排除一整个文件夹下的内容。需要注意的是, 如果你在 commit 后才将文件名放在 `.gitignore` 里，你会需要执行下列命令将文件从 Git 里面移除出来。

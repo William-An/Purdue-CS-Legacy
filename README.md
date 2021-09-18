@@ -6,7 +6,7 @@ A dedicated repository for cheatsheets and documentations of Purdue University c
 
 1. [ ] Tools
     1. [x] Git and GitHub
-    2. [ ] Linux basic commands
+    2. [x] Linux basic commands
     3. [x] ssh
         1. No putty on MacOS and Linux
     4. [ ] Vscode
