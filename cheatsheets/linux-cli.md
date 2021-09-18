@@ -1,6 +1,6 @@
 # Linux CLI
 
-Super basic commands for navigating general Linux distros like Ubuntu, also applies to MacOS as well in certain cases. References: manual of MacOS system.
+Super basic commands for navigating general Linux distros like Ubuntu, also applies to MacOS as well in certain cases. References: `man` command on MacOS.
 
 - [Linux CLI](#linux-cli)
   - [General](#general)
