@@ -28,8 +28,9 @@ OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare 
 3. [ssh](/tools/basic/ssh.md)
 4. [Linux CLI / Bash](/tools/basic/linux.md)
 5. [Visual Studio Code](/tools/basic/vscode.md)
-6. [Intellij](/tools/basic/intellij.md)
-7. [make & makefile](/tools/basic/make.md)
+6. [Vim](/tools/basic/vim.md)
+7. [Intellij](/tools/basic/intellij.md)
+8. [make & makefile](/tools/basic/make.md)
 
 ## Courses, CS课程
 
@@ -42,3 +43,5 @@ OK, 这可能是你第一次使用这种网站, 但是别担心, I will prepare 
 > When I forgot what I learned in 4 years of college life
 
 1. [Markdown](/cheatsheets/markdown.md)
+2. [Linux CLI](/cheatsheets/linux-cli.md)
+3. [Latex](/cheatsheets/latex.md)

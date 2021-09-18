@@ -1,5 +1,7 @@
 # Markdown Cheatsheet
 
+Ref: [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+
 - [Markdown Cheatsheet](#markdown-cheatsheet)
   - [文本格式](#文本格式)
   - [列表](#列表)

@@ -12,6 +12,8 @@
 
 ## Quick Quick Refs
 
+todo: git revert: https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
 ``` bash
 git init
 git clone [REMOTE_URL or LOCAL_PATH_TO_REPO]
